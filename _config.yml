@@ -1,0 +1,7 @@
+server: true
+page_title: "##feminism"
+title: "##feminism"
+tagline: Freenode Feminism
+repository_url: https://github.com/freenode-feminists/freenode-feminists.github.io/
+permalink: pretty
+markdown: kramdown
