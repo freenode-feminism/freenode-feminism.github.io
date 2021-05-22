@@ -3,3 +3,5 @@ This was the webpage for our feminist chatroom. The URL was all over and had gre
 Then we changed our name from `freenode-feminists` to [freenode-feminism](https://freenode-feminism.github.io/).
 
 Ever wondered if putting meta and JS redirects in a github.io page will hurt your SEO? Me too. Let's see.
+
+UPDATE: we changed our name again to [feminism-chat](https://feminism-chat.github.io/).
